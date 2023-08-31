@@ -52,7 +52,7 @@ Esse projeto foi desenvolvido com as seguintes tecnologias:
       
 <br/>
 
-- [Visite o projeto online](https://iaraMarques.github.io/Biscoito-Da-Sorte)
+- [Visite o projeto online](https://iaraMarques.github.io/IMC-Calculator)
 
 <br/>
 
